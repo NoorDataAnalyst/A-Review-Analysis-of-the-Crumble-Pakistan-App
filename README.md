@@ -8,7 +8,7 @@ The objective was to answer a simple question:
 
 **What are customers actually saying about their experience with the Crumble app, and what can the business learn from it?**
 
-This was an independent data analytics project completed using publicly available customer reviews.
+This is an independent data analytics project completed using customer reviews data scraped from Google Play Store.
 <img width="1471" height="1291" alt="image" src="https://github.com/user-attachments/assets/a3807ccf-1a36-470a-a487-4a60a1869ad6" />
 
 ---
